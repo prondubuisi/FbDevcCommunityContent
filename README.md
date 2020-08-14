@@ -112,6 +112,7 @@ Useful articles and learning resources.
 - [https://bolajiayodeji.com/](https://www.bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
+- [Spotify Engineering Blog](https://engineering.atspotify.com/) - Awesome Engineering blogs from the Engineers at Spotify
 </details>
 
 <details>
